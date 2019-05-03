@@ -1,1 +1,1 @@
-DROP TABLE Actor;
+DROP TABLE Actors;
